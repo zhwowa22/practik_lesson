@@ -1,0 +1,26 @@
+@import url("reset.css");
+body{
+    color: brown;
+}
+.menu{
+    color: blue;
+}
+ul li ul li .link {
+    color: red;
+}
+p{
+    color: black;
+}
+.text-1{
+    color:green;
+}
+.text-1 #artikel-1{
+    color: red;
+}
+.text-2 p a{
+    color: red;
+    
+}
+.text-4  .sub__p {
+    color: blue;
+}
