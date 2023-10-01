@@ -130,3 +130,7 @@ a{
    padding-left:38px;
    margin-top: 30px;
 }
+.block1 p {
+  color: red;
+  text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.676);
+}
