@@ -1,0 +1,167 @@
+@import url("reset.css");
+
+@import url("https://fonts.googleapis.com/css?family=Inter:,regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Serif+Text:regular&display=swap");
+
+
+body{
+    font-family: "Inter";
+    font-size: 18px;
+    
+}
+h1{
+    font-family: 'Lucida Sans';
+    font-size: 40px;
+    color: blueviolet;
+    text-shadow: 1px 2px 2px #ff0000d5;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.consulting {
+    width: 692px;
+    margin: 0 auto;
+
+   
+}
+.consult__foto {
+  margin-bottom: 37px;
+
+}
+.consult__text {
+    width: 692px;
+    /*border: 2px solid #000;*/
+    margin-bottom: 40px;
+}
+.consul-title,.consult-sub-title,
+.benef__title,.benef__sub-title
+        {
+         font-family: Poppins;
+         font-weight: 600;
+        }
+.consul-title{
+    color: #37393F;
+    font-size: 30px;
+    line-height: 127%;
+    margin-bottom: 10px;
+}
+.text {
+    color: #7D7D7D;
+    font-family: Inter;
+    line-height: 146.187%;
+
+}
+.text1{
+    margin-bottom: 42px;
+}
+
+.consult-sub-title {
+    color: #6B77E5;
+    font-size: 20px;
+    line-height: 127%;
+    margin: 0 0 10px 0;
+}
+.benefits__container {
+    width: 692px;
+    height: 300px;
+    /*border: 1px solid red;*/
+    margin-bottom: 50px;
+   
+    
+}
+.benefits-foto {
+    width:330px;
+    height: 300px;
+    display: inline-block;
+
+   }
+   
+.benefits__text {
+    width: 330px;
+    display: inline-block;
+    margin-left: 29px;
+    position: absolute;
+    
+    
+}
+
+.note-foto{
+    width: 330px;
+    height: 300px;
+    margin-right: 20px;
+    position: absolute;
+}
+
+.benef__title {
+color: #37393F;
+font-size: 25px;
+line-height:127%;
+margin-bottom: 15px;
+}
+.benef__sub-title {
+    color: #40DDB6;
+    font-size: 20px;
+    line-height: 127%;
+    margin-bottom: 30px;
+}
+.benef-list {
+    color: #7D7D7D;
+    font-family: Inter;
+    font-size: 18px
+}
+.benef-list-item {
+    margin-bottom: 40px;
+    line-height: 1.8;
+    padding-left: 30px;
+}
+
+.jewellery-title{
+    font-family: "DM Serif Text";
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 3px 4px rgba(37, 77, 196, 0.828);
+    color: #6B77E5;
+    margin-bottom: 50px;
+}
+
+.jew__container {
+    width: 1169px;
+    height: 518px;
+    margin: 0 auto;
+    /*border: 1px solid red;*/
+    margin-bottom: 60px;
+    background-color: #FFF9F4;
+}
+.jew__text {
+    width: 563px;
+    display: inline-block;
+    margin-right: 38px;
+    padding-top: 20px;
+}
+.jew__title {
+    color: #D06B00;
+    font-family: Inter;
+    font-size: 28px;
+}
+.jew__sub-title {
+    color: #0E333D;
+    font-family: DM Serif Text;
+    font-size: 59px;
+    line-height: 146.5%;
+    margin-bottom: 25px;
+}
+.jew-p-text {
+    color: #474747;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 180%;
+    margin-top: 60px;
+}
+.jew__foto-container {
+    display: inline-block;
+    position: absolute;
+}
+.woman-earring {
+    margin-right: 16px;
+}
