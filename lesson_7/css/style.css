@@ -26,7 +26,7 @@ h4{
     max-width: 1218px;
     margin: 0 auto;
     padding: 150px 0;
-    border: 5px dashed red;
+    /*border: 5px dashed red;*/
     margin-bottom: 100px;
 }
 .licencing-title {
@@ -110,7 +110,7 @@ h4{
 .project-container{
     max-width: 830px;
     margin: 0 auto;
-    border: 2px dashed red;
+    /*border: 2px dashed red;*/
 }
 .project-title{
     margin: 0 0 13px 0;
@@ -151,7 +151,7 @@ h4{
     max-width: 1240px;
     margin: 0 auto;
     padding: 0 0 0 21px;
-    border: 2px dashed red;
+   /* border: 2px dashed red;*/
     margin-bottom: 100px;
 }
 .closing-block{
@@ -201,7 +201,7 @@ a{
     max-width: 1110px;
     min-height: 519px;
     margin: 0 auto 100px;
-    border: 2px dashed green;
+   /* border: 2px dashed green;*/
     font-size: 0;
     
 
@@ -211,9 +211,8 @@ a{
     font-size: 700px;
     max-width: 500px;
     display: inline-block;
-   
     margin-right: 65px;
-    border: 2px solid red;
+   /* border: 2px solid red;*/
 }
 .jewells-sub-title {
     color: #D58417;
@@ -235,7 +234,7 @@ a{
     height: inherit;
     display: inline-block;
     vertical-align:top;   
-    border: 2px dashed green;
+   /* border: 2px dashed green;*/ 
     margin-top: 10px;
    
 }
@@ -252,5 +251,5 @@ a{
     min-height: 519px; 
     border:1px solid #502203;
     border-radius: 235px;
-    padding: 5px 5px 0px 0px;   
+    padding: 20px 20px 0 0 ;
 }
